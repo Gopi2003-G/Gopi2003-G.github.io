@@ -1,5 +1,5 @@
-# Sr. Data Analyst Portfolio
-Portfolio Design Website which describes and showcase about my work experience and projects.
+# G.Gopi Portfolio
+Portfolio Design Website which describes and showcase about my education and projects.
 <hr>
 <b> ** Feature Highlights ** </b>
 
@@ -14,6 +14,6 @@ Portfolio Design Website which describes and showcase about my work experience a
 
 Want to have a look onto the website? Click the below image
 
-<a href="https://github.com/Mahalingam-G/PORTFOLIO/" title="Click Me" target="_blank">
+<a href="https://github.com/Gopi2003-G/PORTFOLIO/" title="Click Me" target="_blank">
 <img src="./assets/images/Skillset.jpg" alt="Portfolio_website">
 </a>
