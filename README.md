@@ -14,6 +14,6 @@ Portfolio Design Website which describes and showcase about my education and pro
 
 Want to have a look onto the website? Click the below image
 
-<a href="https://github.com/Gopi2003-G/PORTFOLIO/" title="Click Me" target="_blank">
+<a href="https://gopi2003-g.github.io" title="Click Me" target="_blank">
 <img src="./assets/images/Skillset.jpg" alt="Portfolio_website">
 </a>
